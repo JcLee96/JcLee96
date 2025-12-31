@@ -1,16 +1,21 @@
-## Hi there 👋
+# JcLee96 👋
+Vision / VLM / Medical AI Researcher  
+연구를 논문·특허로 확장하고, 실제 현장 적용까지 수행합니다.
 
-<!--
-**JcLee96/JcLee96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+- Vision Transformer (ViT)
+- Ordinal Classification
+- Medical Image Analysis
+- Segmentation / Multimodal
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python / PyTorch
+- VScode
+- Linux / Git
+- Docker (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Order-ViT**: Vision Transformer that explicitly models ordinal label relationships
+- **DOIR-ViT**: Order-preserving Vision Transformer for ordinal classification
+- **AI Samsung Challenge 2022, 2023**: 3D Metrology, IQA & Captioning
+- **DELECA**: Multimodal query-based cross-attention for dual-exposure image
