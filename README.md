@@ -10,8 +10,7 @@ Vision / VLM / Medical AI Researcher
 
 ## Tech Stack
 - Python / PyTorch
-- VScode
-- Linux / Git
+- Linux / Git / VScode
 - Docker (basic)
 
 ## Featured Projects
@@ -19,3 +18,7 @@ Vision / VLM / Medical AI Researcher
 - **DOIR-ViT**: Order-preserving Vision Transformer for ordinal classification
 - **AI Samsung Challenge 2022, 2023**: 3D Metrology, IQA & Captioning
 - **DELECA**: Multimodal query-based cross-attention for dual-exposure image
+
+## Experience
+- Daedong AI Lab  
+  Conducted applied research on vision and multimodal models for real-world systems
