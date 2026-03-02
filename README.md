@@ -5,12 +5,12 @@
 
 ## 📖 Publications & Projects
 ### 🔬 Peer-Reviewed Publications
-* **[Order-ViT]** [Order-Preserving Vision Transformer for Ordinal Classification](https://github.com/JcLee96)
-  * *Vision Transformer that explicitly models ordinal label relationships.*
-* **[DIOR-ViT]** [DIOR-ViT: Dual-branch Implicit Ordinal Relationship Vision Transformer](https://github.com/JcLee96)
-  * *Order-preserving Vision Transformer for ordinal classification.*
-* **[DELECA]** [DELECA: Dual-Exposure Learning via Cross-Attention for Image Enhancement](https://github.com/JcLee96)
-  * *Multimodal query-based cross-attention for dual-exposure image processing.*
+* **[Order-ViT]** [Order-ViT: Order-Learning Vision Transformer for Cancer Classification in Pathology](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/html/Lee_Order-ViT_Order_Learning_Vision_Transformer_for_Cancer_Classification_in_Pathology_ICCVW_2023_paper.html)
+  * *Computer Vision for Automated Medical Diagnosis (CVAMD), **ICCV Workshop 2023***
+* **[DIOR-ViT]** [DIOR-ViT: Dual-branch implicit ordinal relationship vision transformer for ordinal classification](https://www.sciencedirect.com/science/article/pii/S1361841525002555)
+  * ***Medical Image Analysis (MedIA)***, 2025
+* **[DELECA]** [DELECA: Dual-exposure learning via cross-attention for high dynamic range image enhancement](https://www.sciencedirect.com/science/article/pii/S2405959525000785)
+  * ***ICT Express***, 2025
 
 ## 🏆 Challenges & Awards
 * **[AI Samsung Challenge 2023]** [3D Metrology & Semiconductor Image Quality Assessment (IQA)](https://dacon.io/en/competitions/official/236134/talkboard/409957)
