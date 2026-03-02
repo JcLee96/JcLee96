@@ -1,14 +1,15 @@
 # JuCheon Lee
 ### Vision / VLM / Medical AI Researcher
 
-**Vision Transformer**
-**Ordinal Classification**
-**Medical Image Analysis**
-**Industrial AI**
-**Multimodal Learning**
+* **Vision Transformer**
+* **Ordinal Classification**
+* **Medical Image Analysis**
+* **Industrial AI**
+* **Multimodal Learning**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/주천-이-ba0741377)
 [![GitHub Issues](https://img.shields.io/badge/Contact-GitHub_Issues-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JcLee96/JcLee96/issues)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:jucheon0618@naver.com)
 
 <br/>
 
