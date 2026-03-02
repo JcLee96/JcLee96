@@ -1,5 +1,14 @@
-# JcLee96 👋
-### Vision / VLM / Medical AI Researcher  
+# JuCheon Lee
+### Vision / VLM / Medical AI Researcher
+
+**Vision Transformer**
+**Ordinal Classification**
+**Medical Image Analysis**
+**Industrial AI**
+**Multimodal Learning**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/주천-이-ba0741377)
+[![GitHub Issues](https://img.shields.io/badge/Contact-GitHub_Issues-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JcLee96/JcLee96/issues)
 
 <br/>
 
@@ -32,6 +41,8 @@
 * **[DELECA]** [DELECA: Dual-exposure learning via cross-attention for high dynamic range image enhancement](https://www.sciencedirect.com/science/article/pii/S2405959525000785)
   * ***ICT Express***, 2025
 
+<br/>
+
 ## 🏆 Challenges & Awards
 * **[AI Samsung Challenge 2023]** [3D Metrology & Semiconductor Image Quality Assessment (IQA)](https://dacon.io/en/competitions/official/236134/talkboard/409957)
     * **Final Winner (Ranked 4th)** | Team: *Quiil Lab* | [Winner Interview](https://dacon.io/forum/410484)
@@ -44,8 +55,3 @@
 - **Architectures**: Vision Transformer (ViT), Multimodal Learning
 - **Tasks**: Ordinal Classification, Segmentation, Image Restoration
 - **Domain**: Medical AI, Smart Farming, Real-world AI
-
-<br/>
-
----
-📫 **Contact**: [GitHub Issues](https://github.com/JcLee96/JcLee96/issues)
