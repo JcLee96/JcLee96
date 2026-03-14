@@ -47,9 +47,9 @@
 
 ## 🏆 Challenges & Awards
 * **[AI Samsung Challenge 2023]** [3D Metrology & Semiconductor Image Quality Assessment (IQA)](https://dacon.io/en/competitions/official/236134/talkboard/409957)
-    * **Final Winner (Ranked 4th)** | Team: *Quiil Lab* | [Winner Interview](https://dacon.io/forum/410484)
+    * **Final Winner (Ranked 3th)** | Team: *Quiil Lab* | [Winner Interview](https://dacon.io/forum/410484)
 * **[AI Samsung Challenge 2022]** [Semiconductor Image Captioning & Reconstruction](https://dacon.io/en/competitions/official/235954/talkboard/406931)
-    * **Final Winner (Ranked 5th)** | Team: *웅싸*
+    * **Final Winner (Ranked 8th)** | Team: *웅싸*
 
 <br/>
 
