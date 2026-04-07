@@ -19,8 +19,9 @@
 * Vision 및 Multimodal 모델을 실제 시스템에 적용하는 Applied Research 수행
 
 #### **Quantitative Imaging & Informatics Laboratory** | *Researcher*
-* 병리학 이미지(Pathology Image) 분류 및 디블러링(Deblurring) 모델 연구
+* 병리학 이미지(Pathology Image) 분
 * Medical Image Analysis 기반의 진단 보조 솔루션 탐구
+* 디블러링(Deblurring) 모델 연구
 
 <br/>
 
