@@ -16,11 +16,11 @@
 ## 💼 Experience
 #### **Grow AI Team @ Daedong AI Lab** | *Researcher*
 * 스마트팜 생육 계측 모델 개발 및 실데이터 기반 비전 알고리즘 연구
+* 농경지 이용 판독 AI 모델 개발 | 수분 스트레스 AI 모델 개발
 * Vision 및 Multimodal 모델을 실제 시스템에 적용하는 Applied Research 수행
 
 #### **Quantitative Imaging & Informatics Laboratory** | *Researcher*
-* 병리학 이미지(Pathology Image) 분
-* Medical Image Analysis 기반의 진단 보조 솔루션 탐구
+* 병리학 이미지(Pathology Image) 분류 연구
 * 디블러링(Deblurring) 모델 연구
 
 <br/>
