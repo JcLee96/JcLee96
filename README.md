@@ -21,6 +21,7 @@
 
 #### **Quantitative Imaging & Informatics Laboratory** | *Researcher*
 * 병리학 이미지(Pathology Image) 분류 연구
+* EEG 데이터 기반 뇌졸중 환자 분류 연구
 * 디블러링(Deblurring) 모델 연구
 
 <br/>
