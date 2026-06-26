@@ -57,9 +57,9 @@
 
 ## 💡 Patents
 * **차량의 전력 소모량을 관리하기 위한 원격 차량 관리 서버 및 이를 이용한 차량 제어 방법**
-  * *Patent Application No. 10-2025-0177389*
+  * *Patent Application No. 10-2025-0177389* (2025.11.20)
 * **AI 기반의 작물 생육 계측 방법 및 컴퓨팅 장치**
-  * *Patent Application No. 10-2025-0167351*
+  * *Patent Application No. 10-2025-0167351* (2025.11.07)
 * **차등순서학습 기반 딥러닝 모델 학습 방법 및 그 장치**
   * *Patent Application No. 10-2023-0091585* (2023.07.14)
 
