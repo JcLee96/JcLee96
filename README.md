@@ -48,7 +48,7 @@
 ## 📖 Publications & Projects
 ### 🔬 Peer-Reviewed Publications
 * **[DIOR-ViT]** [DIOR-ViT: Dual-branch implicit ordinal relationship vision transformer for ordinal classification](https://www.sciencedirect.com/science/article/pii/S1361841525002555)
-  * ***Medical Image Analysis (MedIA)***, 2025 (**IF: 11.8**)
+  * ***Medical Image Analysis (MedIA)***, 2025 (**IF: 14.0**)
 * **[DELECA]** [DELECA: Dual-exposure learning via cross-attention for high dynamic range image enhancement](https://www.sciencedirect.com/science/article/pii/S2405959525000785)
   * ***ICT Express***, 2025 (**IF: 4.2**)
   * **Core Contribution**: Model architecture design & Extensive experimental validation
