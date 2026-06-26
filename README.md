@@ -14,15 +14,25 @@
 <br/>
 
 ## 💼 Experience
-#### **Grow AI Team @ Daedong AI Lab** | *Researcher*
+#### **Grow AI Team @ Daedong AI Lab** | *Researcher* | 2024.09.23 ~ 2026.06.30
 * 스마트팜 생육 계측 모델 개발 및 실데이터 기반 비전 알고리즘 연구
 * 농경지 이용 판독 AI 모델 개발 | 수분 스트레스 AI 모델 개발
 * Vision 및 Multimodal 모델을 실제 시스템에 적용하는 Applied Research 수행
 
-#### **Quantitative Imaging & Informatics Laboratory** | *Researcher*
+#### **Quantitative Imaging & Informatics Laboratory** | *Researcher* | 2022.03.01 ~ 2024.02.23
 * 병리학 이미지(Pathology Image) 분류 연구
 * EEG 데이터 기반 뇌졸중 환자 분류 연구
 * 디블러링(Deblurring) 모델 연구
+
+#### **Quantitative Imaging & Informatics Laboratory** | *Intern* | 2021.09.16 ~ 2022.02.30
+* EEG 데이터 기반 뇌졸중 환자 분류 연구
+* CS231n 강의 기반 컴퓨터 비전 학습 및 CNN, ViT 논문 세미나 발표
+
+#### **CodeState AI 부트캠프 2기** | *Student* | 2021.03.01 ~ 2021.09.15
+* Machine Learning (Scikit-learn), Deep Learning (TensorFlow/PyTorch), SQL
+* 정형 및 비정형 데이터 분석 기법 학습 및 알고리즘 구현 실습
+* AI 모델 추론 결과 서빙을 위한 웹 프레임워크 기초 및 API 연동 경험
+* 뇌 이미지 기반 Segmentation 개인프로젝트 2건 수행
 
 <br/>
 
