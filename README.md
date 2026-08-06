@@ -1,10 +1,10 @@
 # JuCheon Lee
 ### Vision / VLM / Medical AI Researcher
 
-* **Vision Transformer**
+* **Vision Transformer & VLM (Gemma, Qwen-VL etc)**
+* **Visual Question Answering (VQA)**
 * **Ordinal Classification**
-* **Medical Image Analysis**
-* **Industrial AI**
+* **Medical Image Analysis & Industrial AI**
 * **Multimodal Learning**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/주천-이-ba0741377)
@@ -14,6 +14,12 @@
 <br/>
 
 ## 💼 Experience
+
+#### **Side Projects (Personal / Open Source)** | *Independent Researcher* | 2026.07.06 ~ Present
+* **[프로젝트 1 이름 입력]**: Gemma / Qwen 기반 Visual Question Answering (VQA) 및 Multimodal 파이프라인 구축
+* **[프로젝트 1 세부 내용]**: VLM Fine-tuning 및 도메인 맞춤형 Visual-Language 데이터셋 구축 및 성능 평가
+* **[프로젝트 2 이름 입력]**: RunPod 클라우드 GPU 환경 기반의 Open-source VLM 파인튜닝 및 추론 최적화 실험
+
 #### **Grow AI Team @ Daedong AI Lab** | *Researcher* | 2024.09.23 ~ 2026.06.30
 * 스마트팜 생육 계측 모델 개발 및 실데이터(Inter Realsense RGB-D Camera) 기반 비전 알고리즘 연구
 * 농경지 이용 판독 AI 모델 개발 | 수분 스트레스 AI 모델 개발
