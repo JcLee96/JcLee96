@@ -15,16 +15,19 @@
 
 ## 💼 Experience
 
-#### **SteelDefectX 결함 이미지 기반 Decoder-Only VLM 적용** | *Personal Project* | 2026.07 ~ 
-* Long-CLIP(ViT-L/14) 기반 논문 재현 — 분류·세그멘테이션·속성 ablation·검색 4개 태스크
-* CLIP 계열을 VLM2Vec-V2(Qwen2-VL-2B bi-encoder)로 교체 후 LoRA 적응 — 분류 94.49, 검색 i2t R@1 26.03 (Long-CLIP 5.77 대비 4.5배)
-* Gemma-4-12B(생성형 디코더) 적용 시 임베딩 공간 부재로 우도 랭킹이 강제되는 구조적 한계 규명 — 공유 접두사 편향이 클래스 신호의 19배임을 [N,25] 점수 행렬로 정량화
-* 예측 CSV·점수 행렬 전량 보존하는 평가 파이프라인 설계 — GPU 재실행 없이 12개 채점 규칙을 오프라인 재계산 가능
+#### **AI Solution Team @ Korea DeepLearning** | *AI Engineer* | 2026.08.31 ~ 
+* Document AI(Parsing Task) Model/Module 개발
+
+#### **SteelDefectX 결함 이미지 기반 Decoder-Only VLM 적용** | *Personal Project* | 2026.07 ~ 2026.08
+* Long-CLIP(ViT-L/14) 기반 논문 재현 : 분류·세그멘테이션·속성 ablation·검색 4개 태스크
+* CLIP 계열을 VLM2Vec-V2(Qwen2-VL-2B bi-encoder)로 교체 후 LoRA 적응 : 분류 94.49, 검색 i2t R@1 26.03 (Long-CLIP 5.77 대비 4.5배)
+* Gemma-4-12B(생성형 디코더) 적용 시 임베딩 공간 부재로 우도 랭킹이 강제되는 구조적 한계 규명 : 공유 접두사 편향이 클래스 신호의 19배임을 [N,25] 점수 행렬로 정량화
+* 예측 CSV·점수 행렬 전량 보존하는 평가 파이프라인 설계 : GPU 재실행 없이 12개 채점 규칙을 오프라인 재계산 가능
 
 #### **TechMB 논문 재현 및 GRPO 도메인 전이 검증** | *Personal Project* | 2026.07 ~ 
-* 공개 코드가 없는 논문(DFX2025)을 프롬프트·채점 규칙까지 재구성해 재현 — 947 QA / 180 기술도면, VLM 5종 평가
+* 공개 코드가 없는 논문(DFX2025)을 프롬프트·채점 규칙까지 재구성해 재현 : 947 QA / 180 기술도면, VLM 5종 평가
 * 모델 규모 확장 실험 — SmolVLM2(2.2B) 27.0% → Qwen3.6-27B 77.9%, 논문의 "OCR 강점 / 제조 추론 취약" 주장을 태스크 타입별로 검증
-* MechVQA GRPO 학습 및 TechMB 평가 — 70.12% vs zero-shot 69.06%
+* MechVQA GRPO 학습 및 TechMB 평가 : 70.12% vs zero-shot 69.06%
 
 #### **Grow AI Team @ Daedong AI Lab** | *Researcher* | 2024.09.23 ~ 2026.06.30
 * 스마트팜 생육 계측 모델 개발 및 실데이터(Intel RealSense RGB-D Camera) 기반 비전 알고리즘 연구
